@@ -4,8 +4,6 @@ From CS102 Final 2020
 
 ## Credit Cards
 
-### 10 Points
-
 Credit card companies have lots of bonuses nowadays to get you to use their cards. Write a Python CreditCard class to simulate how credit cards work.
 
 The following are members of your class:
